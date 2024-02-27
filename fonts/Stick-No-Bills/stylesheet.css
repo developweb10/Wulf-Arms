@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'Stick No Bills';
+    src: url('StickNoBills-Bold.eot');
+    src: url('StickNoBills-Bold.eot?#iefix') format('embedded-opentype'),
+        url('StickNoBills-Bold.woff2') format('woff2'),
+        url('StickNoBills-Bold.woff') format('woff'),
+        url('StickNoBills-Bold.ttf') format('truetype'),
+        url('StickNoBills-Bold.svg#StickNoBills-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stick No Bills';
+    src: url('StickNoBills-ExtraLight.eot');
+    src: url('StickNoBills-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('StickNoBills-ExtraLight.woff2') format('woff2'),
+        url('StickNoBills-ExtraLight.woff') format('woff'),
+        url('StickNoBills-ExtraLight.ttf') format('truetype'),
+        url('StickNoBills-ExtraLight.svg#StickNoBills-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stick No Bills';
+    src: url('StickNoBills-ExtraBold.eot');
+    src: url('StickNoBills-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('StickNoBills-ExtraBold.woff2') format('woff2'),
+        url('StickNoBills-ExtraBold.woff') format('woff'),
+        url('StickNoBills-ExtraBold.ttf') format('truetype'),
+        url('StickNoBills-ExtraBold.svg#StickNoBills-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stick No Bills';
+    src: url('StickNoBills-Light.eot');
+    src: url('StickNoBills-Light.eot?#iefix') format('embedded-opentype'),
+        url('StickNoBills-Light.woff2') format('woff2'),
+        url('StickNoBills-Light.woff') format('woff'),
+        url('StickNoBills-Light.ttf') format('truetype'),
+        url('StickNoBills-Light.svg#StickNoBills-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stick No Bills';
+    src: url('StickNoBills-Medium.eot');
+    src: url('StickNoBills-Medium.eot?#iefix') format('embedded-opentype'),
+        url('StickNoBills-Medium.woff2') format('woff2'),
+        url('StickNoBills-Medium.woff') format('woff'),
+        url('StickNoBills-Medium.ttf') format('truetype'),
+        url('StickNoBills-Medium.svg#StickNoBills-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stick No Bills';
+    src: url('StickNoBills-SemiBold.eot');
+    src: url('StickNoBills-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('StickNoBills-SemiBold.woff2') format('woff2'),
+        url('StickNoBills-SemiBold.woff') format('woff'),
+        url('StickNoBills-SemiBold.ttf') format('truetype'),
+        url('StickNoBills-SemiBold.svg#StickNoBills-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stick No Bills';
+    src: url('StickNoBills-Regular.eot');
+    src: url('StickNoBills-Regular.eot?#iefix') format('embedded-opentype'),
+        url('StickNoBills-Regular.woff2') format('woff2'),
+        url('StickNoBills-Regular.woff') format('woff'),
+        url('StickNoBills-Regular.ttf') format('truetype'),
+        url('StickNoBills-Regular.svg#StickNoBills-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
